@@ -1,0 +1,8 @@
+btse:
+  api_key: "your_btse_key"
+  secret: "your_btse_secret"
+  sandbox: false
+
+rain:
+  api_key: "your_rain_key"
+  base_url: "https://api.rain.com/v2"
